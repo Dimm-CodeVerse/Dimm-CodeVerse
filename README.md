@@ -13,16 +13,18 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-5C2D91?style=for-the-badge&logo=metasploit&logoColor=white)
 
-<div align="center" width: 100%; max-width: 400px;>
+<div align="center" width: 100%; max-width: 400px; margin: 10px;>
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dimm-CodeVerse&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Dimm-CodeVerse&theme=catppuccin_mocha&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimm-CodeVerse&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dimm-CodeVerse&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
