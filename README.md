@@ -1,5 +1,9 @@
-# TECH ENTHUSIAST | CYBER SECURITY | WEB DEVELOPER
+<div align="center">
+<h1 style="font-weight: bold; font-size: 2.2em;">Dimm-CodeVerse</h1>
 
+<p><strong>Tech Enthusiast | Web Developer | Cyber Security</strong></p>
+
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@dimmwjyy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dimaswijay2345@gmail.com) 
