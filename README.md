@@ -1,5 +1,5 @@
 <div align="center">
-<h1 style="font-weight: bold; font-size: 2.2em;">Dimm-CodeVerse</h1>
+<h1 style="font-weight: bold; font-size: 2.2em;">CODEVERSE</h1>
 
 <p><strong>Tech Enthusiast | Web Developer | Cyber Security</strong></p>
 
