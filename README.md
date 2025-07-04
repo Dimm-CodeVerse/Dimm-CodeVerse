@@ -1,8 +1,9 @@
 
 
-<div align="center">
+<div align="center" width="100%">
   
-![black and white l GIF](https://github.com/user-attachments/assets/5baaaa25-1ccf-45ce-b13a-0481145e71ff)
+![black and white l GIF](https://github.com/user-attachments/assets/031b7926-1ebd-4195-a8ae-cf92014a6720)
+
 
 
 </div>
