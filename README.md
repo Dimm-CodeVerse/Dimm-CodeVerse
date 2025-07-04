@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 Saya Dimm — web developer yang fokus bikin website modern dan belajar dunia cyber security.  <br>Suka eksplor tools, ngulik Linux, dan terus ngembangin skill di dunia teknologi.<br><br>
+# TECH ENTHUSIAST | CYBER SECURITY | WEB DEVELOPER
 
 
 ## 🌐 Socials:
