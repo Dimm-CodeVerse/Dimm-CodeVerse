@@ -1,8 +1,8 @@
 
-![Dimm-CodeVerse](github-header-image.png)
 
 
-![black and white l GIF](https://github.com/user-attachments/assets/5de7d3ac-c543-45c6-9192-29014bbe0a28)
+
+
 
 
 <div align="center">
