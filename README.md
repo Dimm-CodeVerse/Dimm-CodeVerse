@@ -1,6 +1,6 @@
 
 
-<div align="center" width="100%">
+<div align="center" style="max-width: 100%; display: block;">
   
 ![black and white l GIF](https://github.com/user-attachments/assets/031b7926-1ebd-4195-a8ae-cf92014a6720)
 
