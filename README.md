@@ -1,5 +1,4 @@
 
-![Dimm-CodeVerse](github-header-image.png)
 
 <div align="center">
   
