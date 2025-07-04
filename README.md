@@ -1,3 +1,6 @@
+## 👋 Hey, I'm Dimas
+
+💻 Focused on **Fullstack Web Development** &  exploring the world of **Cyber Security**.
 
 
 <div align="center" style="max-width: 100%; display: block;">
