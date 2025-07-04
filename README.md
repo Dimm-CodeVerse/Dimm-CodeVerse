@@ -1,4 +1,4 @@
-![Dimm-CodeVerse](github-header-image.png)
+
 
 <div align="center" style="max-width: 100%; display: block;">
   
