@@ -2,7 +2,9 @@
 
 
 <div align="center">
-![black and white l GIF](https://github.com/user-attachments/assets/331867a4-ea5b-4c73-9f6d-5a623184eec1)
+  
+![black and white l GIF](https://github.com/user-attachments/assets/5baaaa25-1ccf-45ce-b13a-0481145e71ff)
+
 
 </div>
 
