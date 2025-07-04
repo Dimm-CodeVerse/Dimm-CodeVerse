@@ -5,7 +5,7 @@
 
 </div>
 
-![black and white l GIF](https://github.com/user-attachments/assets/42d01999-b2ee-4a4e-9168-676408891753)
+![black and white l GIF]
 
 <div align="center">
   
