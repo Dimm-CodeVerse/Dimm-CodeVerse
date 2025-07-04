@@ -1,9 +1,6 @@
-<div align="center">
-<h1 style="font-weight: bold; font-size: 2.2em;">CODE UNIVERSE 🌍</h1>
 
-<p><strong>Tech Enthusiast | Web Developer | Cyber Security</strong></p>
+![Dimm-CodeVerse](github-header-image.png)
 
-</div>
 
 ![black and white l GIF](https://github.com/user-attachments/assets/5de7d3ac-c543-45c6-9192-29014bbe0a28)
 
