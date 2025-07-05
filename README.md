@@ -7,7 +7,7 @@
  ### 🧠 Exploring the world of **Cyber Security**
 
 
-<br
+<br>
 <div align="center" style="max-width: 100%; display: block;">
   
 
