@@ -14,8 +14,7 @@
  ### 💻 Focused on **Fullstack Web Development**  
  ### 🕵️ Exploring the world of **Cyber Security**
  
- ---
-
+ 
  ### 🧠 Currently Learning on
 - Build responsive and purposeful websites, guided by **OWASP's top 10 standards** 🔒
 - Practicing **reconnaissance and penetration testing** on my website, of course, 🗿 because I'm still not legally an ethical hacker... yet. lol
