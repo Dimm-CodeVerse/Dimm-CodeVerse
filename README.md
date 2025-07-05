@@ -4,9 +4,16 @@
 </div>
 
  ### 💻 Focused on **Fullstack Web Development**  
- ### 🧠 Exploring the world of **Cyber Security**
+ ###  Exploring the world of **Cyber Security**
+ ### 🧠 Currently Learning
+
+-  Build responsive and purposeful websites with the OWASP top 10 standard
+- Practicing reconnaissance and penetration testing on my website, of course 🗿, because I'm still not legally an ethical hacker... yet. lol
+- Currently learning about Web3 technologies and decentralized application development
+- 
 
 
+##### Prioritizing trust, quality, and satisfaction. ✨
 <br>
 <div align="center" style="max-width: 100%; display: block;">
   
