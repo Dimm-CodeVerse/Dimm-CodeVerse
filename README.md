@@ -31,8 +31,7 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-00678F?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-F47B20?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-5C2D91?style=for-the-badge&logo=metasploit&logoColor=white)
-
+![Metasploit](https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 
 
 
