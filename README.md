@@ -4,13 +4,13 @@
 </div>
 
  ### 💻 Focused on **Fullstack Web Development**  
- ###  Exploring the world of **Cyber Security**
- ### 🧠 Currently Learning
+ ### 🕵️ Exploring the world of **Cyber Security**
+ ### 🧠 Currently Learning on
 
--  Build responsive and purposeful websites with the OWASP top 10 standard
-- Practicing reconnaissance and penetration testing on my website, of course 🗿, because I'm still not legally an ethical hacker... yet. lol
-- Currently learning about Web3 technologies and decentralized application development
-- 
+- Build responsive and purposeful websites with the OWASP top 10 standard 🔒
+- Practicing reconnaissance and penetration testing on my website, of course 🗿 because I'm still not legally an ethical hacker... yet. lol
+- Learning about Web3 technologies and decentralized application development
+- Exploring red team operations, web deployment strategies, and various aspects of modern technology.
 
 
 ##### Prioritizing trust, quality, and satisfaction. ✨
