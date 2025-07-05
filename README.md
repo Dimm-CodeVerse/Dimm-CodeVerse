@@ -1,8 +1,13 @@
-## 👋 Hey, I'm Dimas
+<div align="center">
+  
+# 👋 Hey, I'm Dimas — a passionate Web Developer and Cyber Security enthusiast from 🇮🇩
+</div>
 
-💻 Focused on **Fullstack Web Development** &  exploring the world of **Cyber Security**.
+## 💻 Focused on **Fullstack Web Development**  
+## 🧠 Exploring the world of **Cyber Security**
+## 
 
-
+ ### Still learning. Still exploring. Still obsessed.
 <div align="center" style="max-width: 100%; display: block;">
   
 
@@ -14,7 +19,11 @@
 <div align="center" width: 100%; max-width: 400px; margin: 10px;>
   
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![VS Code](https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Neovim](https://img.shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) ![Docker](https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Pop!_OS](https://img.shields.io/badge/OS-Pop!__OS-48B9C7?style=for-the-badge&logo=popos&logoColor=white)
+
+
+
+
 
 # 🛡️ Cyber Security:
 ![Wireshark](https://img.shields.io/badge/Wireshark-00678F?style=for-the-badge&logo=wireshark&logoColor=white)
