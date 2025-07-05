@@ -24,9 +24,12 @@
 ### 👨‍💻 Fact about me :
 - Most of my breakthroughs happen under moonlight 🌙
 - Linux enthusiast 🐧
-- Ask me about Linux, programming, and cybersecurity
+- Ask me about Linux, programming, and cybersecurity 💬
   
 #### Prioritizing trust, quality, and satisfaction. ✨
+
+---
+
 <br>
 <div align="center" style="max-width: 100%; display: block;">
   
