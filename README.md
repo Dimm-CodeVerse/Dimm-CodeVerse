@@ -5,7 +5,7 @@
 
 <div align="center">
   
-  ## Tech Enthusiast | Web developer | Cyber security
+  ## Tech enthusiast | Web developer | Cyber security
   
 </div>
 
