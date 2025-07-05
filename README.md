@@ -3,6 +3,11 @@
 # 👋 Hey, I'm Dimas — a passionate Web Developer and Cyber Security enthusiast from 🇮🇩
 </div>
 
+<div align="center">
+  ## Tech Enthusiast | Web develoeper | Cyber security
+</div>
+
+
  ### 💻 Focused on **Fullstack Web Development**  
  ### 🕵️ Exploring the world of **Cyber Security**
  ### 🧠 Currently Learning on
