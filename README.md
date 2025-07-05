@@ -3,9 +3,9 @@
 # 👋 Hey, I'm Dimas — a passionate Web Developer and Cyber Security enthusiast from 🇮🇩
 </div>
 
-## 💻 Focused on **Fullstack Web Development**  
-## 🧠 Exploring the world of **Cyber Security**
-## 
+ 💻 Focused on **Fullstack Web Development**  
+ 🧠 Exploring the world of **Cyber Security**
+
 
  ### Still learning. Still exploring. Still obsessed.
 <div align="center" style="max-width: 100%; display: block;">
