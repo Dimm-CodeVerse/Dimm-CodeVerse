@@ -7,7 +7,7 @@
  ### 🧠 Exploring the world of **Cyber Security**
 
 
- ### Still learning. Still exploring. Still obsessed.
+
 <div align="center" style="max-width: 100%; display: block;">
   
 
