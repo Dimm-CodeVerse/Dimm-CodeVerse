@@ -14,7 +14,8 @@
  ### 💻 Focused on **Fullstack Web Development**  
  ### 🕵️ Exploring the world of **Cyber Security**
  ### 🎓 Member of :
- [<img src="https://tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="TryHackMe" height="40"/>](https://tryhackme.com)
+ [<img src="https://tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="TryHackMe" height="40"/>](https://tryhackme.com) [<img src="https://fullstack.id/assets/images/logo-fullstack-horizontal.svg" alt="Fullstack.id" height="40"/>](https://fullstack.id)
+
 
 
  
