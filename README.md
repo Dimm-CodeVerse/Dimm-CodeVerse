@@ -13,7 +13,10 @@
 
  ### 💻 Focused on **Fullstack Web Development**  
  ### 🕵️ Exploring the world of **Cyber Security**
- ### 🎓 Member of ** [Kelasfullstack.id](https://www.kelasfullstack.id/) && [Tryhackme](https://tryhackme.com/dashboard) 🔥
+ ### 🎓 Member of :
+ - [![TryHackMe](https://img.shields.io/badge/TryHackMe-Cybersecurity-red?logo=tryhackme)](https://tryhackme.com)
+ -  [![Fullstack.id](https://img.shields.io/badge/Fullstack.id-WebDev-blue)](https://fullstack.id)
+
  
  
  ### 🧠 Currently Learning on :
