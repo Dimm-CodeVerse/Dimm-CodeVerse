@@ -14,10 +14,7 @@
  ### 💻 Focused on **Fullstack Web Development**  
  ### 🕵️ Exploring the world of **Cyber Security**
  ### 🎓 Member of :
- 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Cyber_Labs-redlogo=tryhackme&logoColor=white)](https://tryhackme.com/dashboard)
-[![Fullstack.id](https://img.shields.io/badge/Fullstack.id-Web_Development-yellow)](https://www.kelasfullstack.id/)
-
+ [<img src="https://tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="TryHackMe" height="40"/>](https://tryhackme.com)
 
 
  
