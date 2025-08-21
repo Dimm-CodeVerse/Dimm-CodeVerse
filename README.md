@@ -5,7 +5,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=2000&color=F70000&width=435&lines=+Tech+Enthusiast+%7C+Fullstack+Developer+%7C+Cyber+security)](https://git.io/typing-svg)
+  ## Tech Enthusiast | fullstack developer | Cyber security
   
 </div>
 
