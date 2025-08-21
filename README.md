@@ -18,7 +18,7 @@
 ### 🎓 Member of :
 
 [<img src="https://tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="TryHackMe" height="40"/>](https://tryhackme.com)
-[<img src="https://cdn.simpleicons.org/hackthebox/9FEF00" alt="Hack The Box" height="32" />]
+
 ### 👨‍💻 Fact about me :
 
 - Linux enthusiast 🐧with a strong foundation in **Fullstack Web Development and Cybersecurity**
