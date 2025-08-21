@@ -5,8 +5,8 @@
 
 <div align="center">
   
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=F7F7F7&center=true&vCenter=true&random=true&width=441&lines=TECH+ENTHUSIAST_;FULLSTACK+DEVELOPER_;CYBER+SECURITY_)](https://git.io/typing-svg)
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&random=true&width=441&lines=TECH+ENTHUSIAST_;FULLSTACK+DEVELOPER_;CYBER+SECURITY_)](https://git.io/typing-svg)
+
 </div>
 
 ---
