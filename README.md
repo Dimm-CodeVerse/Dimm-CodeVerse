@@ -72,12 +72,6 @@
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dimm-CodeVerse&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
-
-
-[![](https://visitcount.itsvg.in/api?id=Dimm-CodeVerse&icon=4&color=0)](https://visitcount.itsvg.in)
-
 ---
 </div>
 
