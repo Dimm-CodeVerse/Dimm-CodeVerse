@@ -18,21 +18,22 @@
 
 
 
+### 👨‍💻 Fact about me :
+- Linux enthusiast 🐧with a strong foundation in **Fullstack Web Development and Cybersecurity**
+- Passionate about building **secure, scalable, and maintainable applications**
+- Lifelong learner dedicated to **exploring and mastering modern techstack, building responsive and secure websites, practicing ethical hacking and**
+- Commited to staying updates with **emerging techonologies and industry standarts**
  
  
  ### 🧠 Currently Learning on :
-- Build responsive and purposeful websites, guided by **OWASP's top 10 standards** 🔒
-- I'm practicing **reconnaissance and penetration testing** on my website, of course, 🗿 because I'm still not legally an ethical hacker... yet. lol
+- Build **secure, responsive, and purposeful websites** following **OWASP's top 10 standards** 🔒
+- Practicing **etichal hacking & penetration testing** in controlled environments
 - Learning about Web3 technologies and decentralized application development
 - Exploring **red team operations, web deployment strategies, and various aspects of modern technology.**
 
-### 👨‍💻 Fact about me :
-- Most of my breakthroughs happen under moonlight 🌙
-- Linux enthusiast 🐧
-- Ask me about Linux, programming, and cybersecurity 💬
   
 #### Prioritizing trust, quality, and satisfaction. ✨
-
+#### Ask me about linux, modern techstack, and cyber security 
 ---
 
 <br>
