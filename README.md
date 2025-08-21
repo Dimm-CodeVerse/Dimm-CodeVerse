@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey, I'm Dimas — a passionate Web Developer and Cyber Security enthusiast
+# 👋 Hey, I'm Dimas — a passionate Developer and Cyber Security enthusiast
 </div>
 
 <div align="center">
@@ -49,7 +49,7 @@
   
 
 
-#  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=&center=true&width=441&lines=TECH+STACK+%3A+)](https://git.io/typing-svg)
+#  💻TECH STACK
  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5 logo"  />
@@ -89,7 +89,7 @@
 
 
 
-# 🛡️ Cyber Security:
+# 🛡️SECURITY STACK
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-00678F?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-F47B20?style=for-the-badge&logo=burpsuite&logoColor=white)
