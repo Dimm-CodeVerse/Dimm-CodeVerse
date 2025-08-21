@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey, I'm Dimas — a passionate Web Developer and Cyber Security enthusiast from 🇮🇩
+# 👋 Hey, I'm Dimas — a passionate Web Developer and Cyber Security enthusiast
 </div>
 
 <div align="center">
