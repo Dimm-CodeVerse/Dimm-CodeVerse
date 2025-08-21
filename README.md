@@ -35,8 +35,7 @@
 
 #### Prioritizing trust, quality, and satisfaction. ✨
 
-#### Ask me about linux, modern techstack, and cyber security
-
+#### Ask me about **linux, modern techstack, and cyber security** 💬
 ---
 
 <br>
@@ -53,7 +52,7 @@
  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5 logo"  />
-  <img width="7" />(https://id.wikipedia.org/wiki/HTML5)
+  <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="css logo"  />
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript logo"  />
@@ -85,7 +84,7 @@
   <img src="https://skillicons.dev/icons?i=linux" height="42" alt="linux logo"  />
 </div>
 
-###
+
 
 
 
