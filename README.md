@@ -49,7 +49,7 @@
   
 
 
-# 💻 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&center=true&width=441&lines=TECH+STACK+%3A)](https://git.io/typing-svg)
+#  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=&center=true&width=441&lines=TECH+STACK+%3A+)](https://git.io/typing-svg)
  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5 logo"  />
